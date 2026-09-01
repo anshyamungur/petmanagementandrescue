@@ -1,0 +1,5 @@
+236|Cole|57575128|M|cole@mail.com|Long Mountain|Moderate|House|1|1|0|Cat|4|9|Large|A
+237|Sarah|51234567|F|sarah@mail.com|Curepipe|Light|House|1|1|1|Dog|2|7|Medium|F
+238|John|59876543|M|john@mail.com|Quatre Bornes|Busy|Apartment|0|0|0|Cat|1|5|Small|M
+239|Emily|52345678|F|emily@mail.com|Grand Baie|Light|House|1|1|1|Dog|3|10|Large|A
+240|David|53456789|M|david@mail.com|Rose Hill|Moderate|Apartment|1|0|0|Dog|1|6|Medium|F
