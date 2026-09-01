@@ -12,7 +12,7 @@ int adopterCount = 0;
 
 void createAdopterFile(void)
 {
-    FILE *file = fopen("adopter.txt", "r");
+    FILE *file = fopen("adopters.txt", "r");
 
     if (file != NULL)
     {
@@ -20,11 +20,11 @@ void createAdopterFile(void)
         return;
     }
 
-    file = fopen("adopter.txt", "w");
+    file = fopen("adopters.txt", "w");
 
     if (file == NULL)
     {
-        printf("Error: Could not create adopter.txt\n");
+        printf("Error: Could not create adopters.txt\n");
         return;
     }
 
@@ -45,7 +45,7 @@ void createAdopterFile(void)
 
     fclose(file);
 
-    printf("adopter.txt created successfully.\n");
+    printf("adopters.txt created successfully.\n");
 }
 
 
@@ -55,7 +55,7 @@ void createAdopterFile(void)
 
 void loadAdopters(void)
 {
-    FILE *file = fopen("adopter.txt", "r");
+    FILE *file = fopen("adopters.txt", "r");
 
     if (file == NULL)
     {
@@ -98,14 +98,13 @@ void loadAdopters(void)
 /* ============================================
    SAVE ADOPTERS
    ============================================ */
-
 void saveAdopters(void)
 {
-    FILE *file = fopen("adopter.txt", "w");
+    FILE *file = fopen("adopters.txt", "w");
 
     if (file == NULL)
     {
-        printf("Error: Could not open adopter.txt for writing.\n");
+        printf("Error: Could not open adopters.txt for writing.\n");
         return;
     }
 
@@ -132,7 +131,10 @@ void saveAdopters(void)
     }
 
     fclose(file);
+
+    printf("Adopters saved successfully to adopters.txt\n");
 }
+
 
 
 /* ============================================
@@ -592,7 +594,7 @@ void deleteAdopter(void)
 #include <stdio.h>
 #include "adopter.h"
 
-int main(void)
+/*int main(void)
 {
     int choice;
 
@@ -649,3 +651,4 @@ int main(void)
 
     return 0;
 }
+*/
