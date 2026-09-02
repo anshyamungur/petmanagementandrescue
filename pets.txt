@@ -1,0 +1,6 @@
+1|Buddy|Dog|Labrador|3|Male|25.50|Large|Port Louis|Healthy|Available
+2|Luna|Dog|MixedBreed|4|Male|18.00|Medium|Port Louis|Healthy|Available
+3|Mimi|Cat|DomesticShortHair|2|Female|4.00|Small|Curepipe|Healthy|Available
+4|Rex|Dog|LabradorMix|6|Male|24.50|Large|Quatre Bornes|Injured|UnderTreatment
+5|Lily|Cat|MixedBreed|4|Female|5.00|Medium|Curepipe|Healthy|Available
+567|yolk|dog|labrador|6|Male|54.00|Large|long|Healthy|Available
