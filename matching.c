@@ -593,9 +593,3 @@ void processAndSaveApplication(
 
     printf("\nAdoption application saved successfully.\n");
 }
-
-
-/* ============================================
-
-
-

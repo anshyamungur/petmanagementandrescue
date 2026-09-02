@@ -59,7 +59,6 @@ void loadDonations(
            fgets(line, sizeof(line), file) != NULL)
     {
         char *part;
-        char *next;
 
         /* Remove newline */
         line[strcspn(line, "\r\n")] = '\0';
@@ -119,7 +118,6 @@ void loadDonations(
            remaining part manually.
         */
 
-        next = strchr(part + strlen(part) + 1, '|');
 
         if (strcmp(donations[*count].donationtype, "Money") == 0)
         {

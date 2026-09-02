@@ -4,3 +4,4 @@
 4|Rex|Dog|LabradorMix|6|Male|24.50|Large|Quatre Bornes|Injured|UnderTreatment
 5|Lily|Cat|MixedBreed|4|Female|5.00|Medium|Curepipe|Healthy|Available
 567|yolk|dog|labrador|6|Male|54.00|Large|long|Healthy|Available
+555|Filou|Dog|German Shepherd|13|Female|28.00|Medium|Les Plaines|Injured|UnderTreatment
