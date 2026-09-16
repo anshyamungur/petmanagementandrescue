@@ -2,3 +2,4 @@
 2|Sarah Jones|Curepipe|59876543|sarah@gmail.com|Food|0.00|Dog Food|10
 3|David Brown|Quatre Bornes|52345678|david@gmail.com|Supplies|0.00|Blankets|5
 4|Shayan Pom|Boulingrin|556784|shayan@gmail|Money|34566.00||0
+5|Hamza Ali Mazari|Lyari|999999111|hamza@mail|Money|1000000.00||0
